@@ -9,33 +9,6 @@
         "OriginalFilenames": [],
         "Chapters": [
           {
-            "ChapterName": "",
-            "SortOrder": "101",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "102",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "103",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter3"
-            ],
-            "Chapters": []
-          },
-          {
             "ChapterName": "Chapter 1: Birth",
             "SortOrder": "104",
             "SubFolder": "",
@@ -218,47 +191,11 @@
             "Chapters": []
           },
           {
-            "ChapterName": "Extra Chapter: Battle History of the Ghost Unit \u2014 Take Control of Enemy Headquarters!",
-            "SortOrder": "115",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "extra"
-            ],
-            "Chapters": []
-          },
-          {
             "ChapterName": "Afterword",
             "SortOrder": "116",
             "SubFolder": "",
             "OriginalFilenames": [
               "afterword"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "Bonus Short Stories",
-            "SortOrder": "117",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "118",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "signup"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "copyright"
             ],
             "Chapters": []
           }
@@ -271,10 +208,38 @@
         "SortOrder": "1",
         "SubFolder": "",
         "OriginalFilenames": [],
-        "Chapters": []
+        "Chapters": [
+          {
+            "ChapterName": "Extra Chapter: Battle History of the Ghost Unit \u2014 Take Control of Enemy Headquarters!",
+            "SortOrder": "115",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "extra"
+            ],
+            "Chapters": []
+          }
+        ]
       }
     ],
-    "ExtraContent": [],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 1",
+        "SortOrder": "1",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Bonus Short Stories",
+            "SortOrder": "117",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "bonus"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
     "Gallery": {
       "SplashImages": [
         "cover",
@@ -308,33 +273,6 @@
         "SubFolder": "",
         "OriginalFilenames": [],
         "Chapters": [
-          {
-            "ChapterName": "",
-            "SortOrder": "201",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "202",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "203",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter3"
-            ],
-            "Chapters": []
-          },
           {
             "ChapterName": "Chapter 1: Moon Base",
             "SortOrder": "204",
@@ -470,33 +408,6 @@
               "afterword"
             ],
             "Chapters": []
-          },
-          {
-            "ChapterName": "Bonus Short Stories",
-            "SortOrder": "213",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "214",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "signup"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "copyright"
-            ],
-            "Chapters": []
           }
         ]
       }
@@ -510,7 +421,25 @@
         "Chapters": []
       }
     ],
-    "ExtraContent": [],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 2",
+        "SortOrder": "2",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Bonus Short Stories",
+            "SortOrder": "213",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "bonus"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
     "Gallery": {
       "SplashImages": [
         "cover",
@@ -544,47 +473,12 @@
         "OriginalFilenames": [],
         "Chapters": [
           {
-            "ChapterName": "",
-            "SortOrder": "301",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "302",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "303",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter3"
-            ],
-            "Chapters": []
-          },
-          {
             "ChapterName": "Chapter 1: Let\u2019s Create Culture",
             "SortOrder": "304",
             "SubFolder": "",
             "OriginalFilenames": [
               "chapter1",
-              "insert1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "305",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert1",
               "chapter11"
             ],
             "Chapters": []
@@ -595,25 +489,9 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "chapter2",
-              "insert2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "307",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert2",
               "chapter21",
-              "insert3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "308",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert3",
               "chapter22"
             ],
             "Chapters": []
@@ -633,25 +511,9 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "chapter4",
-              "insert4"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "311",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert4",
               "chapter41",
-              "insert5"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "312",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert5",
               "chapter42"
             ],
             "Chapters": []
@@ -672,15 +534,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "chapter6",
-              "insert7"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "315",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert7",
               "chapter61"
             ],
             "Chapters": []
@@ -691,15 +545,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "chapter7",
-              "insert8"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "317",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert8",
               "chapter71"
             ],
             "Chapters": []
@@ -710,33 +556,6 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "afterword"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "Bonus Short Stories",
-            "SortOrder": "319",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "320",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "signup"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "copyright"
             ],
             "Chapters": []
           }
@@ -752,14 +571,31 @@
         "Chapters": []
       }
     ],
-    "ExtraContent": [],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 3",
+        "SortOrder": "3",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Bonus Short Stories",
+            "SortOrder": "319",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "bonus"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
     "Gallery": {
       "SplashImages": [
         "cover",
         "frontmatter1",
         "frontmatter2",
-        "frontmatter3",
-        "jnovelclubrgb"
+        "frontmatter3"
       ],
       "ChapterImages": [
         "insert1",

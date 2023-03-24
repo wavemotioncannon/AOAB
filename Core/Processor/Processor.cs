@@ -17,6 +17,11 @@ namespace Core.Processor
             return str.Replace(":", "").Replace(" ", "").Replace(";", "");
         }
 
+        private string MakeSafeEpubName(string str)
+        {
+            return str.Replace(":", "_").Replace("?", "_");
+        }
+
         public async Task FullOutput(string baseFolder, bool textOnly, bool humanReadable, bool deleteFolder, string name, int? maxX = null, int? maxY = null, int imageQuality = 90)
         {
             if (string.IsNullOrWhiteSpace(name))
@@ -210,8 +215,8 @@ namespace Core.Processor
             File.WriteAllText($"{folder}\\oebps\\toc.ncx", $"<?xml version='1.0' encoding='utf-8'?>\r\n<ncx xmlns=\"http://www.daisy.org/z3976/2005/ncx/\" version=\"2005-1\" xml:lang=\"en\">\r\n  <head>\r\n    <meta name=\"dtb:depth\" content=\"{NavPoints.Max(x => x.MaxTabs) + 2}\" />\r\n  </head>\r\n  <docTitle>\r\n    <text>{name}</text>\r\n  </docTitle>\r\n  <navMap>\r\n"
                 + NavPoints.Aggregate(string.Empty, (agg, np) => string.Concat(agg, np, "\r\n")) + "  </navMap>\r\n</ncx>");
 
-            if (File.Exists($"{baseFolder}\\{name}.epub")) File.Delete($"{baseFolder}\\{name}.epub");
-            var archive = ZipFile.Open($"{baseFolder}\\{name}.epub", ZipArchiveMode.Create);
+            if (File.Exists($"{baseFolder}\\{MakeSafeEpubName(name)}.epub")) File.Delete($"{baseFolder}\\{MakeSafeEpubName(name)}.epub");
+            var archive = ZipFile.Open($"{baseFolder}\\{MakeSafeEpubName(name)}.epub", ZipArchiveMode.Create);
             foreach (var file in Directory.GetFiles(folder, "*", SearchOption.AllDirectories))
             {
                 if (file.EndsWith("mimetype"))

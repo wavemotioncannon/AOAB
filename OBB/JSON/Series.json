@@ -4441,25 +4441,25 @@
   },
   {
     "Name": "Me, a Genius? I Was Reborn into Another World and I Think They\u0027ve Got the Wrong Idea!",
-    "InternalName": "me-a-genius-i-was-reborn-into-another-world-and-i-think-they-ve-got-the-wrong-idea",
+    "InternalName": "Me a Genius",
     "Volumes": [
       {
         "ApiSlug": "me-a-genius-i-was-reborn-into-another-world-and-i-think-they-ve-got-the-wrong-idea-volume-1",
         "FileName": "me-a-genius-i-was-reborn-into-another-world-and-i-think-they-ve-got-the-wrong-idea-volume-1.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "me-a-genius-i-was-reborn-into-another-world-and-i-think-they-ve-got-the-wrong-idea-volume-2",
         "FileName": "me-a-genius-i-was-reborn-into-another-world-and-i-think-they-ve-got-the-wrong-idea-volume-2.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "me-a-genius-i-was-reborn-into-another-world-and-i-think-they-ve-got-the-wrong-idea-volume-3",
         "FileName": "me-a-genius-i-was-reborn-into-another-world-and-i-think-they-ve-got-the-wrong-idea-volume-3.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       }
     ],
     "Author": "Nyun",
