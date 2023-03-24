@@ -1,0 +1,580 @@
+[
+  {
+    "InternalName": "bluesteel-blasphemer-volume-1",
+    "Chapters": [
+      {
+        "ChapterName": "Volume 1",
+        "SortOrder": "1",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Prologue: From an Ending to a Beginning",
+            "SortOrder": "106",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "prologue"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter One: A Sacred Animal",
+            "SortOrder": "107",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter1",
+              "insert1",
+              "chapter11",
+              "insert2",
+              "chapter12"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Two: A God\u2019s Form",
+            "SortOrder": "110",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter2",
+              "insert3",
+              "chapter21",
+              "insert4",
+              "chapter22"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Three: A Curious Beast",
+            "SortOrder": "113",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter3",
+              "insert5",
+              "chapter31",
+              "insert6",
+              "chapter32"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Four: A God\u2019s Army",
+            "SortOrder": "116",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter4",
+              "insert7",
+              "chapter41",
+              "insert8",
+              "chapter42",
+              "insert9",
+              "chapter43",
+              "insert10",
+              "chapter44"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Epilogue: Who Reigns Over That Land",
+            "SortOrder": "121",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "epilogue"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Afterword",
+            "SortOrder": "122",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "BonusChapters": [
+      {
+        "ChapterName": "Volume 1",
+        "SortOrder": "1",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": []
+      }
+    ],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 1",
+        "SortOrder": "1",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Bonus Translation Notes",
+            "SortOrder": "123",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "bonus"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "Gallery": {
+      "SplashImages": [
+        "cover",
+        "frontmatter1",
+        "frontmatter2",
+        "frontmatter3",
+        "frontmatter4"
+      ],
+      "ChapterImages": [
+        "insert1",
+        "insert2",
+        "insert3",
+        "insert4",
+        "insert5",
+        "insert6",
+        "insert7",
+        "insert8",
+        "insert9",
+        "insert10"
+      ],
+      "ChapterName": "",
+      "SortOrder": "",
+      "SubFolder": "1-Volume 1",
+      "OriginalFilenames": [],
+      "Chapters": []
+    }
+  },
+  {
+    "InternalName": "bluesteel-blasphemer-volume-2",
+    "Chapters": [
+      {
+        "ChapterName": "Volume 2",
+        "SortOrder": "2",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Prologue: From Death, Life",
+            "SortOrder": "205",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "prologue"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter One: After a God Dies",
+            "SortOrder": "206",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter1",
+              "insert1",
+              "chapter11",
+              "insert2",
+              "chapter12",
+              "insert3",
+              "chapter13"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Two: Another Land\u2019s God",
+            "SortOrder": "210",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter2",
+              "insert4",
+              "chapter21",
+              "insert5",
+              "chapter22",
+              "insert6",
+              "chapter23"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Three: A God\u2019s Homecoming",
+            "SortOrder": "214",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter3",
+              "insert7",
+              "chapter31",
+              "insert8",
+              "chapter32",
+              "insert9",
+              "chapter33"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Four: The One Sent by a God",
+            "SortOrder": "218",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter4",
+              "insert10",
+              "chapter41"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Afterword",
+            "SortOrder": "220",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "BonusChapters": [
+      {
+        "ChapterName": "Volume 2",
+        "SortOrder": "2",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": []
+      }
+    ],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 2",
+        "SortOrder": "2",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Bonus Short Stories",
+            "SortOrder": "221",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "bonus"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Bonus Translation Notes",
+            "SortOrder": "222",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "notes"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "Gallery": {
+      "SplashImages": [
+        "cover",
+        "frontmatter1",
+        "frontmatter2",
+        "frontmatter3",
+        "frontmatter4"
+      ],
+      "ChapterImages": [
+        "insert1",
+        "insert2",
+        "insert3",
+        "insert4",
+        "insert5",
+        "insert6",
+        "insert7",
+        "insert8",
+        "insert9",
+        "insert10"
+      ],
+      "ChapterName": "",
+      "SortOrder": "",
+      "SubFolder": "2-Volume 2",
+      "OriginalFilenames": [],
+      "Chapters": []
+    }
+  },
+  {
+    "InternalName": "bluesteel-blasphemer-volume-3",
+    "Chapters": [
+      {
+        "ChapterName": "Volume 3",
+        "SortOrder": "3",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Prologue: Voices of a Lost Country",
+            "SortOrder": "305",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "prologue"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter One: A Wounded Visitor",
+            "SortOrder": "306",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter1",
+              "insert1",
+              "chapter11",
+              "insert2",
+              "chapter12",
+              "insert3",
+              "chapter13",
+              "insert4",
+              "chapter14",
+              "insert5",
+              "chapter15"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Two: The Gathering Storm",
+            "SortOrder": "312",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter2",
+              "insert6",
+              "chapter21",
+              "insert7",
+              "chapter22"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Three: The Weak Ones\u2019 Fight",
+            "SortOrder": "315",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter3",
+              "insert8",
+              "chapter31",
+              "insert9",
+              "chapter32",
+              "insert10",
+              "chapter33"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Epilogue: The Changing God",
+            "SortOrder": "319",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "epilogue"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Afterword",
+            "SortOrder": "320",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "BonusChapters": [
+      {
+        "ChapterName": "Volume 3",
+        "SortOrder": "3",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": []
+      }
+    ],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 3",
+        "SortOrder": "3",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Bonus Preliminary Character Sketches",
+            "SortOrder": "321",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "bonus",
+              "bonus1",
+              "bonus2",
+              "bonus3"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "Gallery": {
+      "SplashImages": [
+        "cover",
+        "frontmatter1",
+        "frontmatter2",
+        "frontmatter3",
+        "bonus1",
+        "bonus2",
+        "bonus3",
+        "frontmatter4"
+      ],
+      "ChapterImages": [
+        "insert1",
+        "insert2",
+        "insert3",
+        "insert4",
+        "insert5",
+        "insert6",
+        "insert7",
+        "insert8",
+        "insert9",
+        "insert10"
+      ],
+      "ChapterName": "",
+      "SortOrder": "",
+      "SubFolder": "3-Volume 3",
+      "OriginalFilenames": [],
+      "Chapters": []
+    }
+  },
+  {
+    "InternalName": "bluesteel-blasphemer-volume-4",
+    "Chapters": [
+      {
+        "ChapterName": "Volume 4",
+        "SortOrder": "4",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Chapter One: Malign Influence",
+            "SortOrder": "406",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter1",
+              "insert1",
+              "chapter11",
+              "insert2",
+              "chapter12",
+              "insert3",
+              "chapter13"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Two: Amano Yukinari",
+            "SortOrder": "410",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter2",
+              "insert4",
+              "chapter21",
+              "insert5",
+              "chapter22"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Three: The Girl Who Crossed the Darkness",
+            "SortOrder": "413",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter3",
+              "insert6",
+              "chapter31",
+              "insert7",
+              "chapter32"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Four: Yukinari Amano",
+            "SortOrder": "416",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter4",
+              "insert8",
+              "chapter41",
+              "insert9",
+              "chapter42",
+              "insert10"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Afterword",
+            "SortOrder": "419",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "BonusChapters": [
+      {
+        "ChapterName": "Volume 4",
+        "SortOrder": "4",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": []
+      }
+    ],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 4",
+        "SortOrder": "4",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Bonus Q\u0026amp;A Session with \u003Cem\u003EBluesteel Blasphemer\u003C/em\u003E\u2019s Translator and Editor",
+            "SortOrder": "420",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "bonus"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "Gallery": {
+      "SplashImages": [
+        "cover",
+        "frontmatter1",
+        "frontmatter2",
+        "frontmatter3",
+        "frontmatter4"
+      ],
+      "ChapterImages": [
+        "insert1",
+        "insert2",
+        "insert3",
+        "insert4",
+        "insert5",
+        "insert6",
+        "insert7",
+        "insert8",
+        "insert9",
+        "insert10"
+      ],
+      "ChapterName": "",
+      "SortOrder": "",
+      "SubFolder": "4-Volume 4",
+      "OriginalFilenames": [],
+      "Chapters": []
+    }
+  }
+]

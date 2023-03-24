@@ -819,31 +819,31 @@
   },
   {
     "Name": "Bluesteel Blasphemer",
-    "InternalName": "bluesteel-blasphemer",
+    "InternalName": "Bluesteel Blasphemer",
     "Volumes": [
       {
         "ApiSlug": "bluesteel-blasphemer-volume-1",
         "FileName": "bluesteel-blasphemer-volume-1.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "bluesteel-blasphemer-volume-2",
         "FileName": "bluesteel-blasphemer-volume-2.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "bluesteel-blasphemer-volume-3",
         "FileName": "bluesteel-blasphemer-volume-3.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "bluesteel-blasphemer-volume-4",
         "FileName": "bluesteel-blasphemer-volume-4.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       }
     ],
     "Author": "Ichirou Sakaki",
