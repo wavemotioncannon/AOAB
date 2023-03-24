@@ -5160,29 +5160,30 @@
   },
   {
     "Name": "Occultic;Nine",
-    "InternalName": "occultic-nine",
+    "InternalName": "Occultic;Nine",
     "Volumes": [
       {
         "ApiSlug": "occultic-nine-1",
         "FileName": "occultic-nine-1.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "occultic-nine-volume-2",
         "FileName": "occultic-nine-volume-2.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "occultic-nine-volume-3",
         "FileName": "occultic-nine-volume-3.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       }
     ],
     "Author": "Chiyomaru Shikura",
-    "AuthorSort": "SHIKURA, CHIYOMARU"
+    "AuthorSort": "SHIKURA, CHIYOMARU",
+    "DisableHyphenProcessing": true
   },
   {
     "Name": "Otherside Picnic",

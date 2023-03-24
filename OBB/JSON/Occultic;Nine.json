@@ -9,74 +9,11 @@
         "OriginalFilenames": [],
         "Chapters": [
           {
-            "ChapterName": "",
-            "SortOrder": "101",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "cover"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "102",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "103",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "104",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "105",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter4"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "106",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter5"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
+            "ChapterName": "Landmarks",
             "SortOrder": "107",
             "SubFolder": "",
             "OriginalFilenames": [
-              "tableofcontentsImage1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "108",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "tableofcontentsImage2"
+              "toc"
             ],
             "Chapters": []
           },
@@ -95,15 +32,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site01",
-              "insert1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "111",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert1",
               "site011"
             ],
             "Chapters": []
@@ -123,15 +52,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site03",
-              "insert2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "114",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert2",
               "site031"
             ],
             "Chapters": []
@@ -142,15 +63,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site04",
-              "insert3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "116",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert3",
               "site041"
             ],
             "Chapters": []
@@ -170,15 +83,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site06",
-              "insert4"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "119",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert4",
               "site061"
             ],
             "Chapters": []
@@ -207,15 +112,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site09",
-              "insert5"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "123",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert5",
               "site091"
             ],
             "Chapters": []
@@ -290,15 +187,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site17",
-              "insert7"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "132",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert7",
               "site171",
               "insert8"
             ],
@@ -346,15 +235,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site22",
-              "insert9"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "138",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert9",
               "site221"
             ],
             "Chapters": []
@@ -374,25 +255,8 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site24",
-              "insert10"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "141",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert10",
               "site241"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "Occultic;Nine: Tips",
-            "SortOrder": "142",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "appendix1"
             ],
             "Chapters": []
           },
@@ -402,105 +266,6 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "appendix2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "An Interview with the Real Master of Cafe\u2606Bar Bloomoon",
-            "SortOrder": "144",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "appendix3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "145",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bloomoon1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "146",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "appendix31"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "147",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bloomoon2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "148",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bloomoon3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "149",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bloomoon4"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "150",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bloomoon5"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "151",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "appendix32"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "Landmarks",
-            "SortOrder": "152",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "toc"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "153",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "signup"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "copyright"
             ],
             "Chapters": []
           }
@@ -513,30 +278,58 @@
         "SortOrder": "1",
         "SubFolder": "",
         "OriginalFilenames": [],
-        "Chapters": []
+        "Chapters": [
+          {
+            "ChapterName": "Occultic;Nine: Tips",
+            "SortOrder": "142",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "appendix1"
+            ],
+            "Chapters": []
+          }
+        ]
       }
     ],
-    "ExtraContent": [],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 1",
+        "SortOrder": "1",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "An Interview with the Real Master of Cafe\u2606Bar Bloomoon",
+            "SortOrder": "144",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "appendix3",
+              "bloomoon1",
+              "appendix31",
+              "bloomoon2",
+              "bloomoon3",
+              "bloomoon4",
+              "bloomoon5",
+              "appendix32"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
     "Gallery": {
       "SplashImages": [
-        "bloomoon1",
-        "bloomoon2",
-        "bloomoon3",
-        "bloomoon4",
-        "bloomoon5",
         "cover",
         "frontmatter1",
         "frontmatter2",
         "frontmatter3",
         "frontmatter4",
         "frontmatter5",
-        "jnovelclubrgb",
-        "tableofcontents1",
-        "tableofcontents2"
+        "tableofcontentsImage1",
+        "tableofcontentsImage2"
       ],
       "ChapterImages": [
         "insert1",
-        "insert10",
         "insert2",
         "insert3",
         "insert4",
@@ -544,7 +337,13 @@
         "insert6",
         "insert7",
         "insert8",
-        "insert9"
+        "insert9",
+        "insert10",
+        "bloomoon1",
+        "bloomoon2",
+        "bloomoon3",
+        "bloomoon4",
+        "bloomoon5"
       ],
       "ChapterName": "",
       "SortOrder": "",
@@ -563,47 +362,11 @@
         "OriginalFilenames": [],
         "Chapters": [
           {
-            "ChapterName": "",
-            "SortOrder": "201",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "202",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "203",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "204",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "toc1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
+            "ChapterName": "Landmarks",
             "SortOrder": "205",
             "SubFolder": "",
             "OriginalFilenames": [
-              "toc2"
+              "toc"
             ],
             "Chapters": []
           },
@@ -659,15 +422,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site30",
-              "insert2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "212",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert2",
               "site30-1"
             ],
             "Chapters": []
@@ -687,15 +442,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site32",
-              "insert3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "215",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert3",
               "site32-1"
             ],
             "Chapters": []
@@ -706,15 +453,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site33",
-              "insert4"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "217",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert4",
               "site33-1"
             ],
             "Chapters": []
@@ -725,15 +464,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site34",
-              "insert5"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "219",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert5",
               "site34-1"
             ],
             "Chapters": []
@@ -780,15 +511,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site39",
-              "insert6"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "225",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert6",
               "site39-1"
             ],
             "Chapters": []
@@ -808,15 +531,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site41",
-              "insert7"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "228",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert7",
               "site41-1"
             ],
             "Chapters": []
@@ -899,15 +614,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site50",
-              "insert8"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "238",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert8",
               "site50-1"
             ],
             "Chapters": []
@@ -918,15 +625,7 @@
             "SubFolder": "",
             "OriginalFilenames": [
               "site51",
-              "insert9"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "240",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "insert9",
               "site51-1"
             ],
             "Chapters": []
@@ -941,16 +640,7 @@
             "Chapters": []
           },
           {
-            "ChapterName": "",
-            "SortOrder": "242",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "tips"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
+            "ChapterName": "Afterword",
             "SortOrder": "243",
             "SubFolder": "",
             "OriginalFilenames": [
@@ -963,169 +653,23 @@
             "SortOrder": "244",
             "SubFolder": "",
             "OriginalFilenames": [
-              "bonus"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "245",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "246",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus11"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "247",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "248",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus12"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "249",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "250",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus13"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "251",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus4"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "252",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus14"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "253",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus5"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "254",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus15"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "255",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus6"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "256",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus16"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "257",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus7"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "258",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus17"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "259",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus8"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "260",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "bonus",
+              "bonus1",
+              "bonus11",
+              "bonus2",
+              "bonus12",
+              "bonus3",
+              "bonus13",
+              "bonus4",
+              "bonus14",
+              "bonus5",
+              "bonus15",
+              "bonus6",
+              "bonus16",
+              "bonus7",
+              "bonus17",
+              "bonus8",
               "bonus18"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "261",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "signup"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "copyright"
             ],
             "Chapters": []
           }
@@ -1138,25 +682,26 @@
         "SortOrder": "2",
         "SubFolder": "",
         "OriginalFilenames": [],
-        "Chapters": []
+        "Chapters": [
+          {
+            "ChapterName": "Occultic;Nine: Tips",
+            "SortOrder": "242",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "tips"
+            ],
+            "Chapters": []
+          }
+        ]
       }
     ],
     "ExtraContent": [],
     "Gallery": {
       "SplashImages": [
-        "bonus1",
-        "bonus2",
-        "bonus3",
-        "bonus4",
-        "bonus5",
-        "bonus6",
-        "bonus7",
-        "bonus8",
         "cover",
         "frontmatter1",
         "frontmatter2",
         "frontmatter3",
-        "jnovelclubrgb",
         "toc1",
         "toc2"
       ],
@@ -1169,7 +714,15 @@
         "insert6",
         "insert7",
         "insert8",
-        "insert9"
+        "insert9",
+        "bonus1",
+        "bonus2",
+        "bonus3",
+        "bonus4",
+        "bonus5",
+        "bonus6",
+        "bonus7",
+        "bonus8"
       ],
       "ChapterName": "",
       "SortOrder": "",
@@ -1188,56 +741,11 @@
         "OriginalFilenames": [],
         "Chapters": [
           {
-            "ChapterName": "",
-            "SortOrder": "301",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "cover"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "302",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "303",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "304",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "305",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "toc1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
+            "ChapterName": "Landmarks",
             "SortOrder": "306",
             "SubFolder": "",
             "OriginalFilenames": [
-              "toc2"
+              "toc"
             ],
             "Chapters": []
           },
@@ -1469,109 +977,10 @@
           },
           {
             "ChapterName": "Afterword",
-            "SortOrder": "331",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "afterword"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
             "SortOrder": "332",
             "SubFolder": "",
             "OriginalFilenames": [
-              "tips"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "333",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "334",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "335",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "336",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus4"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "337",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus5"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "338",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus6"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "339",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus7"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "340",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus8"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "341",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "signup"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "copyright"
+              "afterword"
             ],
             "Chapters": []
           }
@@ -1584,12 +993,26 @@
         "SortOrder": "3",
         "SubFolder": "",
         "OriginalFilenames": [],
-        "Chapters": []
+        "Chapters": [
+          {
+            "ChapterName": "Occultic;Nine: TIPS",
+            "SortOrder": "331",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "tips"
+            ],
+            "Chapters": []
+          }
+        ]
       }
     ],
     "ExtraContent": [],
     "Gallery": {
       "SplashImages": [
+        "cover",
+        "frontmatter1",
+        "frontmatter2",
+        "frontmatter3",
         "bonus1",
         "bonus2",
         "bonus3",
@@ -1598,13 +1021,8 @@
         "bonus6",
         "bonus7",
         "bonus8",
-        "cover",
-        "frontmatter1",
-        "frontmatter2",
-        "frontmatter3",
-        "jnovelclubrgb",
-        "toc_1",
-        "toc_2"
+        "toc1",
+        "toc2"
       ],
       "ChapterImages": [
         "insert1",
