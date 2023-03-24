@@ -9,42 +9,6 @@
         "OriginalFilenames": [],
         "Chapters": [
           {
-            "ChapterName": "",
-            "SortOrder": "101",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "fullcover"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "102",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "103",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "104",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter3"
-            ],
-            "Chapters": []
-          },
-          {
             "ChapterName": "Chapter 1 \u2014 Wherein My Life is Checkmated",
             "SortOrder": "105",
             "SubFolder": "",
@@ -82,15 +46,7 @@
             "SortOrder": "108",
             "SubFolder": "",
             "OriginalFilenames": [
-              "interlude"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "109",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "interlude",
               "journal1"
             ],
             "Chapters": []
@@ -109,15 +65,7 @@
             "SortOrder": "111",
             "SubFolder": "",
             "OriginalFilenames": [
-              "chapter5"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "112",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "chapter5",
               "journal2"
             ],
             "Chapters": []
@@ -127,15 +75,7 @@
             "SortOrder": "113",
             "SubFolder": "",
             "OriginalFilenames": [
-              "chapter6"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "114",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "chapter6",
               "journal3"
             ],
             "Chapters": []
@@ -145,15 +85,7 @@
             "SortOrder": "115",
             "SubFolder": "",
             "OriginalFilenames": [
-              "chapter7"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "116",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "chapter7",
               "journal4"
             ],
             "Chapters": []
@@ -165,15 +97,7 @@
             "OriginalFilenames": [
               "chapter8",
               "insert4",
-              "chapter8_1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "118",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "chapter8_1",
               "journal5"
             ],
             "Chapters": []
@@ -194,15 +118,7 @@
             "OriginalFilenames": [
               "chapter10",
               "insert5",
-              "chapter10_1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "121",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "chapter10_1",
               "journal6"
             ],
             "Chapters": []
@@ -214,15 +130,7 @@
             "OriginalFilenames": [
               "chapter11",
               "insert6",
-              "chapter11_1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "123",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "chapter11_1",
               "journal7"
             ],
             "Chapters": []
@@ -245,19 +153,31 @@
               "insert7",
               "chapter12_1",
               "insert8",
-              "chapter12_2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "126",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "chapter12_2",
               "journal8"
             ],
             "Chapters": []
           },
+          {
+            "ChapterName": "Afterword",
+            "SortOrder": "129",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword",
+              "insert10"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "BonusChapters": [
+      {
+        "ChapterName": "Volume 1",
+        "SortOrder": "1",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
           {
             "ChapterName": "Previously Unpublished Extra Story \u2014 Biffe",
             "SortOrder": "127",
@@ -277,26 +197,17 @@
               "extra2_1"
             ],
             "Chapters": []
-          },
-          {
-            "ChapterName": "Afterword",
-            "SortOrder": "129",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "afterword",
-              "insert10"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "130",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "BackMatter1"
-            ],
-            "Chapters": []
-          },
+          }
+        ]
+      }
+    ],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 1",
+        "SortOrder": "1",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
           {
             "ChapterName": "Premium Bonus Short Story",
             "SortOrder": "131",
@@ -305,51 +216,21 @@
               "bonus"
             ],
             "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "132",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "signup"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "copyright"
-            ],
-            "Chapters": []
           }
         ]
       }
     ],
-    "BonusChapters": [
-      {
-        "ChapterName": "Volume 1",
-        "SortOrder": "1",
-        "SubFolder": "",
-        "OriginalFilenames": [],
-        "Chapters": []
-      }
-    ],
-    "ExtraContent": [],
     "Gallery": {
       "SplashImages": [
-        "backmatter1",
         "cover",
+        "fullcover",
         "frontmatter1",
         "frontmatter2",
         "frontmatter3",
-        "fullcover",
-        "jnovelclubrgb"
+        "backmatter1"
       ],
       "ChapterImages": [
         "insert1",
-        "insert10",
         "insert2",
         "insert3",
         "insert4",
@@ -357,7 +238,8 @@
         "insert6",
         "insert7",
         "insert8",
-        "insert9"
+        "insert9",
+        "insert10"
       ],
       "ChapterName": "",
       "SortOrder": "",
@@ -375,51 +257,6 @@
         "SubFolder": "",
         "OriginalFilenames": [],
         "Chapters": [
-          {
-            "ChapterName": "",
-            "SortOrder": "201",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "202",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "203",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "204",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter4"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "205",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter5"
-            ],
-            "Chapters": []
-          },
           {
             "ChapterName": "Chapter 13 \u2014 Sir Crow\u2019s Worries",
             "SortOrder": "206",
@@ -563,42 +400,6 @@
               "insert10"
             ],
             "Chapters": []
-          },
-          {
-            "ChapterName": "Bonus Story: A Meandering Week Later",
-            "SortOrder": "220",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "221",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "backmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "222",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "signup"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "copyright"
-            ],
-            "Chapters": []
           }
         ]
       }
@@ -612,21 +413,37 @@
         "Chapters": []
       }
     ],
-    "ExtraContent": [],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 2",
+        "SortOrder": "2",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Bonus Story: A Meandering Week Later",
+            "SortOrder": "220",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "bonus"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
     "Gallery": {
       "SplashImages": [
-        "backmatter1",
         "cover",
         "frontmatter1",
         "frontmatter2",
         "frontmatter3",
         "frontmatter4",
-        "frontmatter5",
-        "jnovelclubrgb"
+        "backmatter1",
+        "frontmatter5"
       ],
       "ChapterImages": [
         "insert1",
-        "insert10",
         "insert2",
         "insert3",
         "insert4",
@@ -634,7 +451,8 @@
         "insert6",
         "insert7",
         "insert8",
-        "insert9"
+        "insert9",
+        "insert10"
       ],
       "ChapterName": "",
       "SortOrder": "",
@@ -652,60 +470,6 @@
         "SubFolder": "",
         "OriginalFilenames": [],
         "Chapters": [
-          {
-            "ChapterName": "",
-            "SortOrder": "301",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter1"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "302",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter2"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "303",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter3"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "304",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter4"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "305",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter5"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "306",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "frontmatter6"
-            ],
-            "Chapters": []
-          },
           {
             "ChapterName": "Chapter 25 \u2014 The Circus Is Coming to Town!",
             "SortOrder": "307",
@@ -830,43 +594,8 @@
             "SortOrder": "318",
             "SubFolder": "",
             "OriginalFilenames": [
-              "afterword"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "319",
-            "SubFolder": "",
-            "OriginalFilenames": [
+              "afterword",
               "afterwordimg"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "320",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "bonus"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "321",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "signup"
-            ],
-            "Chapters": []
-          },
-          {
-            "ChapterName": "",
-            "SortOrder": "",
-            "SubFolder": "",
-            "OriginalFilenames": [
-              "copyright"
             ],
             "Chapters": []
           }
@@ -885,19 +614,17 @@
     "ExtraContent": [],
     "Gallery": {
       "SplashImages": [
-        "afterword",
-        "bonus",
         "cover",
         "frontmatter1",
         "frontmatter2",
         "frontmatter3",
         "frontmatter4",
+        "bonus",
         "frontmatter5",
         "frontmatter6"
       ],
       "ChapterImages": [
         "insert1",
-        "insert10",
         "insert2",
         "insert3",
         "insert4",
@@ -905,7 +632,9 @@
         "insert6",
         "insert7",
         "insert8",
-        "insert9"
+        "insert9",
+        "insert10",
+        "afterwordimg"
       ],
       "ChapterName": "",
       "SortOrder": "",

@@ -7987,25 +7987,25 @@
   },
   {
     "Name": "Walking My Second Path in Life",
-    "InternalName": "walking-my-second-path-in-life",
+    "InternalName": "Walking My Second Path in Life",
     "Volumes": [
       {
         "ApiSlug": "walking-my-second-path-in-life-volume-1",
         "FileName": "walking-my-second-path-in-life-volume-1.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "walking-my-second-path-in-life-volume-2",
         "FileName": "walking-my-second-path-in-life-volume-2.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "walking-my-second-path-in-life-volume-3",
         "FileName": "walking-my-second-path-in-life-volume-3.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       }
     ],
     "Author": "Otaku de Neet",
