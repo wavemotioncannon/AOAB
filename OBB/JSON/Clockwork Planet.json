@@ -1,0 +1,652 @@
+[
+  {
+    "InternalName": "clockwork-planet-volume-1",
+    "Chapters": [
+      {
+        "ChapterName": "Volume 1",
+        "SortOrder": "1",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Intro",
+            "SortOrder": "103",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "intro"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Prologue / -- : -- / Reconstruct",
+            "SortOrder": "104",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "prologue",
+              "insert1",
+              "prologue1"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter One / 00 : 30 / Coincidence",
+            "SortOrder": "106",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter1",
+              "insert2",
+              "chapter11"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Two / 03 : 18 / Complication",
+            "SortOrder": "108",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter2",
+              "insert3",
+              "chapter21",
+              "insert4",
+              "chapter22"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Three / 11 : 45 / Conflict",
+            "SortOrder": "111",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter3",
+              "insert5",
+              "chapter31",
+              "insert6",
+              "chapter32"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Four / 19 : 30 / Conquistador",
+            "SortOrder": "114",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter4",
+              "insert7",
+              "chapter41",
+              "insert8",
+              "chapter42",
+              "insert9",
+              "chapter43"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Epilogue / 00 : 00 / Restart",
+            "SortOrder": "118",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "epilogue",
+              "insert10",
+              "epilogue1"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "(Joint) Afterword",
+            "SortOrder": "120",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Afterword (Yuu Kamiya)",
+            "SortOrder": "121",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword1",
+              "insert11"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Afterword (Tsubaki Himana)",
+            "SortOrder": "122",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword2",
+              "insert12"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Afterword (Sino)",
+            "SortOrder": "123",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword3",
+              "insert13"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "BonusChapters": [
+      {
+        "ChapterName": "Volume 1",
+        "SortOrder": "1",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": []
+      }
+    ],
+    "ExtraContent": [],
+    "Gallery": {
+      "SplashImages": [
+        "frontmatter1",
+        "frontmatter2",
+        "frontmatter3",
+        "frontmatter4",
+        "bonus1",
+        "bonus2",
+        "bonus3",
+        "bonus4",
+        "bonus5",
+        "bonus6",
+        "frontmatter5"
+      ],
+      "ChapterImages": [
+        "insert1",
+        "insert2",
+        "insert3",
+        "insert4",
+        "insert5",
+        "insert6",
+        "insert7",
+        "insert8",
+        "insert9",
+        "insert10",
+        "insert11",
+        "insert12",
+        "insert13"
+      ],
+      "ChapterName": "",
+      "SortOrder": "",
+      "SubFolder": "1-Volume 1",
+      "OriginalFilenames": [],
+      "Chapters": []
+    }
+  },
+  {
+    "InternalName": "clockwork-planet-volume-2",
+    "Chapters": [
+      {
+        "ChapterName": "Volume 2",
+        "SortOrder": "2",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Intro",
+            "SortOrder": "204",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "intro"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Prologue / -- : -- / Sweeper",
+            "SortOrder": "205",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "prologue",
+              "insert1",
+              "prologue1"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter One / 14 : 30 / Goober",
+            "SortOrder": "207",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter1",
+              "insert2",
+              "chapter11",
+              "insert3",
+              "chapter12"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Two / 18 : 10 / Searcher",
+            "SortOrder": "210",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter2",
+              "insert4",
+              "chapter21"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Three / 23 : 20 / Avenger",
+            "SortOrder": "212",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter3",
+              "insert5",
+              "chapter31",
+              "insert6",
+              "chapter32"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Four / 00 : 00 / Returner",
+            "SortOrder": "215",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter4",
+              "insert7",
+              "chapter41",
+              "insert8",
+              "chapter42",
+              "insert9",
+              "chapter43"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Interlude / 04 : 30 / Outbreaker",
+            "SortOrder": "219",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "interlude",
+              "insert10",
+              "interlude1"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "(Joint) Afterword",
+            "SortOrder": "221",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "BonusChapters": [
+      {
+        "ChapterName": "Volume 2",
+        "SortOrder": "2",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": []
+      }
+    ],
+    "ExtraContent": [],
+    "Gallery": {
+      "SplashImages": [
+        "frontmatter1",
+        "frontmatter2",
+        "frontmatter3",
+        "frontmatter4",
+        "conceptartimage",
+        "bonus1",
+        "bonus2",
+        "bonus3",
+        "bonus4",
+        "bonus5",
+        "frontmatter5"
+      ],
+      "ChapterImages": [
+        "insert1",
+        "insert2",
+        "insert3",
+        "insert4",
+        "insert5",
+        "insert6",
+        "insert7",
+        "insert8",
+        "insert9",
+        "insert10"
+      ],
+      "ChapterName": "",
+      "SortOrder": "",
+      "SubFolder": "2-Volume 2",
+      "OriginalFilenames": [],
+      "Chapters": []
+    }
+  },
+  {
+    "InternalName": "clockwork-planet-volume-3",
+    "Chapters": [
+      {
+        "ChapterName": "Volume 3",
+        "SortOrder": "3",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Interlude / 06 : 05 / Reviver",
+            "SortOrder": "304",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "interlude",
+              "insert1",
+              "interlude1",
+              "insert2",
+              "interlude2"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter One / 07 : 20 / Explorer",
+            "SortOrder": "307",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter1",
+              "insert3"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Two / 05 : 17 / Disaster",
+            "SortOrder": "308",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter2",
+              "insert4",
+              "chapter21",
+              "insert5",
+              "chapter22"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Three / 07 : 15 / Liberator",
+            "SortOrder": "311",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter3",
+              "insert6",
+              "chapter31"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Four / 07 : 35 / Progressor",
+            "SortOrder": "313",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter4",
+              "chapter4b",
+              "chapter41",
+              "insert7",
+              "chapter42",
+              "insert8",
+              "chapter43"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Epilogue / 00 : 00 / Saver",
+            "SortOrder": "318",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "epilogue",
+              "insert9",
+              "epilogue1",
+              "insert10",
+              "epilogue2"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "(Joint) Afterword",
+            "SortOrder": "321",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "BonusChapters": [
+      {
+        "ChapterName": "Volume 3",
+        "SortOrder": "3",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "The Third Clockwork Planet Design File: Naoko-chan",
+            "SortOrder": "323",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "backmatter1",
+              "conceptart1"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "The Fourth Clockwork Planet Design File: Still Weight AnchoR",
+            "SortOrder": "325",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "backmatter2",
+              "conceptart2"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "ExtraContent": [
+      {
+        "ChapterName": "Volume 3",
+        "SortOrder": "3",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Bonus Interview with Oskar van Deventer",
+            "SortOrder": "328",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "bonusinterview"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "Gallery": {
+      "SplashImages": [
+        "frontmatter1",
+        "frontmatter3",
+        "frontmatter4",
+        "backmatter1",
+        "backmatter2",
+        "bonus1",
+        "bonus2",
+        "bonus3",
+        "bonus4",
+        "frontmatter2"
+      ],
+      "ChapterImages": [
+        "insert1",
+        "insert2",
+        "insert3",
+        "insert4",
+        "insert5",
+        "insert6",
+        "insert7",
+        "insert8",
+        "insert9",
+        "insert10"
+      ],
+      "ChapterName": "",
+      "SortOrder": "",
+      "SubFolder": "3-Volume 3",
+      "OriginalFilenames": [],
+      "Chapters": []
+    }
+  },
+  {
+    "InternalName": "clockwork-planet-volume-4",
+    "Chapters": [
+      {
+        "ChapterName": "Volume 4",
+        "SortOrder": "4",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Prologue / 14 : 00 / Traditore",
+            "SortOrder": "404",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "prologue",
+              "insert1",
+              "prologue1",
+              "insert2"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter One / 09 : 15 / Attore",
+            "SortOrder": "406",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter1",
+              "insert3",
+              "chapter11",
+              "insert4",
+              "chapter12",
+              "insert5",
+              "chapter13"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Two / 07 : 30 / Produtorre",
+            "SortOrder": "410",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter2",
+              "insert6",
+              "chapter21",
+              "insert7",
+              "chapter22"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Three / 11 : 00 / Pedrolino",
+            "SortOrder": "413",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter3"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Chapter Four / 15 : 30 / \u003Cem\u003EArlecchino\u003C/em\u003E",
+            "SortOrder": "414",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "chapter4",
+              "insert8",
+              "chapter41",
+              "insert9",
+              "chapter42"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "Epilogue / 22 : 30 / Retroscena",
+            "SortOrder": "417",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "epilogue",
+              "insert10",
+              "epilogue1"
+            ],
+            "Chapters": []
+          },
+          {
+            "ChapterName": "(Joint) Afterword",
+            "SortOrder": "419",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "afterword"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "BonusChapters": [
+      {
+        "ChapterName": "Volume 4",
+        "SortOrder": "4",
+        "SubFolder": "",
+        "OriginalFilenames": [],
+        "Chapters": [
+          {
+            "ChapterName": "Clockwork Planet Design File: TemP",
+            "SortOrder": "421",
+            "SubFolder": "",
+            "OriginalFilenames": [
+              "backmatter",
+              "conceptart"
+            ],
+            "Chapters": []
+          }
+        ]
+      }
+    ],
+    "ExtraContent": [],
+    "Gallery": {
+      "SplashImages": [
+        "frontmatter1",
+        "frontmatter2",
+        "frontmatter3",
+        "backmatter",
+        "bonus1",
+        "bonus2",
+        "bonus3",
+        "bonus4",
+        "frontmatter4"
+      ],
+      "ChapterImages": [
+        "insert1",
+        "insert2",
+        "insert3",
+        "insert4",
+        "insert5",
+        "insert6",
+        "insert7",
+        "insert8",
+        "insert9",
+        "insert10"
+      ],
+      "ChapterName": "",
+      "SortOrder": "",
+      "SubFolder": "4-Volume 4",
+      "OriginalFilenames": [],
+      "Chapters": []
+    }
+  }
+]

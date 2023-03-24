@@ -1129,31 +1129,31 @@
   },
   {
     "Name": "Clockwork Planet",
-    "InternalName": "clockwork-planet",
+    "InternalName": "Clockwork Planet",
     "Volumes": [
       {
         "ApiSlug": "clockwork-planet-volume-1",
         "FileName": "clockwork-planet-volume-1.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "clockwork-planet-volume-2",
         "FileName": "clockwork-planet-volume-2.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "clockwork-planet-volume-3",
         "FileName": "clockwork-planet-volume-3.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       },
       {
         "ApiSlug": "clockwork-planet-volume-4",
         "FileName": "clockwork-planet-volume-4.epub",
-        "EditedBy": null,
-        "ShowRemainingFiles": true
+        "EditedBy": "endoftheline",
+        "ShowRemainingFiles": false
       }
     ],
     "Author": "Yuu Kamiya, Tsubaki Himana",
